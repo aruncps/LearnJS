@@ -1,0 +1,20 @@
+html {
+    height: 100%;}
+
+body {
+    background-color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: left;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;}
